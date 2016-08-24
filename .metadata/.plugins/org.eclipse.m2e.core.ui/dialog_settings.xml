@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildTen"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildNine"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildEight"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildSeven"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildSix"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildFive"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildThree"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildFour"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildTwo"/>
+			<item value="C:\Users\admin\workspace\MavenWorkspaces\mavenBuildOne"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

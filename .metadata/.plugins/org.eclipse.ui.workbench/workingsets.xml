@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472060191131_1" label="mavenBuildNine" name="mavenBuildNine">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine-services" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine-services-helloworld" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine-services-helloworld-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine-commons" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine-commons-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine-commons-model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine-interfaces" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mavenBuildNine-interfaces-web" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472060491236_2" label="mavenBuildTen" name="mavenBuildTen"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472059189118_0" label="Window Working Set" name="Aggregate for window 1472059189118"/>
+</workingSetManager>

@@ -1,0 +1,4 @@
+defaultJpaPlatform_1.0=org.eclipse.eclipselink.platform
+defaultJpaPlatform_2.0=generic2_0
+defaultJpaPlatform_2.1=eclipselink2_5
+eclipse.preferences.version=1
